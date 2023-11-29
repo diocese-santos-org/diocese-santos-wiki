@@ -1,4 +1,10 @@
-# diocese-santos-wiki
+# Diocese Santos Wiki
+Nesse repositório você encontrará a wiki da Diocese Santos! Além disso, conta com informações importantes do projeto, testes de software realizados, evidências e defeitos encontrados.
+
+# Link Importantes
+- ORG do projeto: https://github.com/diocese-santos-org
+- Front-End do projeto: https://github.com/diocese-santos-org/diocese-santos-front
+- Back-End do projeto: https://github.com/diocese-santos-org/diocese-santos-backend
 
 ## Integrantes
 > - Carlos Eduardo Lorenzetti Júnior
